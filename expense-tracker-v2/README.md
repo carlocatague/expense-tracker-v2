@@ -1,6 +1,6 @@
 # Expense Tracker 2.0 — React + Supabase
 
-A full-featured personal expense tracker rebuilt from PHP/MySQL to **React + Supabase**.
+A full-featured personal expense tracker built from React + Supabase
 
 ---
 
